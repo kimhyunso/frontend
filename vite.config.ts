@@ -63,7 +63,11 @@ export default ({ mode }) => {
       host: true, // 0.0.0.0
       port: 5173,
       strictPort: true,
+<<<<<<< HEAD
       allowedHosts: ['app.dupilot.store'],
+=======
+      allowedHosts: ['ec2-43-200-75-215.ap-northeast-2.compute.amazonaws.com'],
+>>>>>>> 9493b83 (fix: vite.config 수정)
       hmr: {
         host: 'localhost', // 브라우저에서 접속할 호스트
         port: 5173,
