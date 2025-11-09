@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+
+>>>>>>> a3ddf16 (fix: 배포 스크립트 수정)
 set -euo pipefail
 
 APP_DIR="/home/ubuntu/app"
